@@ -1,0 +1,3 @@
+/home/mat/zed-sdk/recording/recording/mono/cpp/build/CMakeFiles/ZED_SVO_Recording.dir
+/home/mat/zed-sdk/recording/recording/mono/cpp/build/CMakeFiles/edit_cache.dir
+/home/mat/zed-sdk/recording/recording/mono/cpp/build/CMakeFiles/rebuild_cache.dir
